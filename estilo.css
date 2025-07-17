@@ -1,0 +1,16 @@
+.oculto{
+    display: none;
+}
+
+/*aplicar css pñara textarea*/
+#biografia{
+    resize: none;
+}
+/*aplicar css a la imagen*/
+.foto_jugador{
+    max-width: 120px;
+}
+
+.formulario{
+    max-width: 480px;
+}
